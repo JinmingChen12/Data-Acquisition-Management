@@ -1,11 +1,13 @@
-<table>
-<thead>
+<html>
+<body>
+
+<table  style="width:100%">
 <tr>
-<td>Book Name</td>
-<td>Authors</td>
-<td>Rating</td>
-<td>Published Date</td>
-<td>Price</td>
+<th>Book Name</th>
+<th>Authors</th>
+<th>Rating</th>
+<th>Published Date</th>
+<th>Price</th>
 </tr>
 </thead>
 <tbody>
@@ -30,5 +32,7 @@
 <td>Augest 2012</td>
 <td>16.99</td>
 </tr>
-</tbody>
 </table>
+
+</body>
+</html>
