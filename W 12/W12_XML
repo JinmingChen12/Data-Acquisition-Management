@@ -1,25 +1,25 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<Chen's favorite books>
+<Chen's_favorite_books>
 <book>
-    <Book Name>How to American</Book Name>
+    <Book_Name>How to American</Book_Name>
     <Authors>Jimmy O. Yang</Authors>
     <Rating>4/5</Rating>
-    <Published Date>>March 13, 2018</Published Date>
+    <Published_Date>>March 13, 2018</Published_Date>
     <Price>15.95</Price>
 </book>
 <book>
-    <Book Name>Beach Read</Book Name>
+    <Book_Name>Beach Read</Book_Name>
     <Authors>Emily Henery</Authors>
     <Rating>4/5</Rating>
-    <Published Date>May 18, 2020</Published Date>
+    <Published_Date>May 18, 2020</Published_Date>
     <Price>9.99</Price>
 </book>
 <book>
-    <Book Name>The other side of the Ice</Book Name>
+    <Book_Name>The other side of the Ice</Book_Name>
     <Authors>Sprague Theobald, Allan Kreda</Authors>
     <Rating>4.5/5</Rating>
-    <Published Date>Augest 2012</Published Date>
+    <Published_Date>Augest 2012</Published_Date>
     <Price>16.99</Price>
 </book>
-</Chen's favorite books>
+</Chen's_favorite_books>
