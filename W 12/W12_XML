@@ -1,23 +1,25 @@
-<books>
-    <book>
-        <Book Name>How to American</Book Name>
-        <Authors>Jimmy O. Yang</Authors>
-        <Rating>4/5</Rating>
-        <Published Date>>March 13, 2018</Published Date>
-        <Price>15.95</Price>
-    </book>
-    <book>
-        <Book Name>Beach Read</Book Name>
-        <Authors>Emily Henery</Authors>
-        <Rating>4/5</Rating>
-        <Published Date>May 18, 2020</Published Date>
-        <Price>9.99</Price>
-    </book>
-    <book>
-        <Book Name>The other side of the Ice</Book Name>
-        <Authors>Sprague Theobald, Allan Kreda</Authors>
-        <Rating>4.5/5</Rating>
-        <Published Date>Augest 2012</Published Date>
-        <Price>16.99</Price>
-    </book>
-</books>  
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Chen's favorite books>
+<book>
+     <Book Name>How to American</Book Name>
+     <Authors>Jimmy O. Yang</Authors>
+     <Rating>4/5</Rating>
+     <Published Date>>March 13, 2018</Published Date>
+     <Price>15.95</Price>
+</book>
+<book>
+    <Book Name>Beach Read</Book Name>
+    <Authors>Emily Henery</Authors>
+    <Rating>4/5</Rating>
+    <Published Date>May 18, 2020</Published Date>
+    <Price>9.99</Price>
+</book>
+<book>
+    <Book Name>The other side of the Ice</Book Name>
+    <Authors>Sprague Theobald, Allan Kreda</Authors>
+    <Rating>4.5/5</Rating>
+    <Published Date>Augest 2012</Published Date>
+    <Price>16.99</Price>
+</book>
+</Chen's favorite books>
