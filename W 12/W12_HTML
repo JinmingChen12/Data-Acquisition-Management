@@ -3,11 +3,11 @@
 
 <table  style="width:100%">
 <tr>
-<th>Book Name</th>
-<th>Authors</th>
-<th>Rating</th>
-<th>Published Date</th>
-<th>Price</th>
+<td>Book Name</td>
+<td>Authors</td>
+<td>Rating</td>
+<td>Published Date</td>
+<td>Price</td>
 </tr>
 </thead>
 <tbody>
