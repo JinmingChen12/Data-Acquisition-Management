@@ -2,11 +2,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Chen's favorite books>
 <book>
-     <Book Name>How to American</Book Name>
-     <Authors>Jimmy O. Yang</Authors>
-     <Rating>4/5</Rating>
-     <Published Date>>March 13, 2018</Published Date>
-     <Price>15.95</Price>
+    <Book Name>How to American</Book Name>
+    <Authors>Jimmy O. Yang</Authors>
+    <Rating>4/5</Rating>
+    <Published Date>>March 13, 2018</Published Date>
+    <Price>15.95</Price>
 </book>
 <book>
     <Book Name>Beach Read</Book Name>
