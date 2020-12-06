@@ -1,34 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chen's favorite books</title>
+</head>
+<body>
 <table>
-<thead>
-<tr>
-<td>Book Name</td>
-<td>Authors</td>
-<td>Rating</td>
-<td>Published Date</td>
-<td>Price</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>How to American</td>
-<td>Jimmy O. Yang</td>
-<td>4/5</td>
-<td>March 13, 2018</td>
-<td>15.95</td>
-</tr>
-<tr>
-<td>Beach Read</td>
-<td>Emily Henery</td>
-<td>4/5</td>
-<td>May 18, 2020</td>
-<td>9.99</td>
-</tr>
-<tr>
-<td>The other side of the Ice</td>
-<td>Sprague Theobald, Allan Kreda</td>
-<td>4.5/5</td>
-<td>Augest 2012</td>
-<td>16.99</td>
-</tr>
-</tbody>
+    <tr>
+        <th>Book Name</th>
+        <th>Authors</th>
+        <th>Rating</th>
+        <th>Published Date</th>
+        <th>Price</t>
+        
+    </tr>
+    <tr>
+        <td>How to American</td>
+        <td>Jimmy O. Yang</td>
+        <td>4/5</td>
+        <td>March 13, 2018</td>
+        <td>15.95</td>
+    </tr>
+    <tr>
+       <td>Beach Read</td>
+       <td>Emily Henery</td>
+       <td>4/5</td>
+       <td>May 18, 2020</td>
+       <td>9.99</td>
+    </tr>
+    <tr>
+        <td>The other side of the Ice</td>
+        <td>Sprague Theobald, Allan Kreda</td>
+        <td>4.5/5</td>
+        <td>Augest 2012</td>
+        <td>16.99</td>
+    </tr>
 </table>
+</body>
+</html>
